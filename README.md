@@ -1,9 +1,9 @@
-# [territoile](https://territoile.netlify.app)
+# [territoile](https://clansco.org)
 
-[![Screenshot](./preview.webp)](https://clansco.org)
+# <!-- [![Screenshot](./preview.webp)](https://clansco.org) -->
 
  **territoile**  **personal notes** and **knowledge bases** in a future-proof way.
-[Etant Donné](https://www.academia.edu/4395484/Etant_donn%C3%A9s_la_R%C3%A9plique_et_Richard_Baqui%C3%A9_morphog%C3%A9n%C3%A8se_de_la_reproductibilit%C3%A9_Duchamp_Baqui%C3%A9_)
+[Étant Donné](https://www.academia.edu/4395484/Etant_donn%C3%A9s_la_R%C3%A9plique_et_Richard_Baqui%C3%A9_morphog%C3%A9n%C3%A8se_de_la_reproductibilit%C3%A9_Duchamp_Baqui%C3%A9_)
 - 
 
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
