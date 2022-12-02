@@ -1,8 +1,8 @@
-# [Hugo Second Brain Theme](https://github.com/wowchemy/hugo-second-brain-theme)
+# [territoile](https://territoile.netlify.app)
 
 [![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+ **territoile** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
 - It is your **second brain** 🧠, stored in **future-proof** Markdown files
 - Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
