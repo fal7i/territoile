@@ -1,20 +1,10 @@
 # [territoile](https://territoile.netlify.app)
 
-[![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
+[![Screenshot](./preview.webp)](https://clansco.org)
 
- **territoile** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
-
-- It is your **second brain** 🧠, stored in **future-proof** Markdown files
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
-
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
-
-[Check out the latest demo](https://wowchemy.com/docs/) of what you'll get in less than 10 minutes, or [get inspired by how others are using this template](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+ **territoile**  **personal notes** and **knowledge bases** in a future-proof way.
+[Etant Donné](https://www.academia.edu/4395484/Etant_donn%C3%A9s_la_R%C3%A9plique_et_Richard_Baqui%C3%A9_morphog%C3%A9n%C3%A8se_de_la_reproductibilit%C3%A9_Duchamp_Baqui%C3%A9_)
+- 
 
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
