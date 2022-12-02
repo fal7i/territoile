@@ -15,5 +15,7 @@
 - 🗳 
 - 🚀 
 - ⬆️   
+
+
 [^étant donné]:ETANT DONNÉS, LA RÉPLIQUE ET RICHARD BAQUIÉ :  MORPHOGENÈSE DE LA REPRODUCTIBILITÉ
-Article publié dans la revue Ligeia, n°65-68, mars 2006.Pierre Baumann
+  Article publié dans la revue Ligeia, n°65-68, mars 2006.Pierre Baumann
